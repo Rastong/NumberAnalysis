@@ -1,0 +1,14 @@
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.exe
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.deps.json
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.runtimeconfig.json
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.dll
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\bin\Debug\netcoreapp3.1\Day2Lab.pdb
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.AssemblyInfo.cs
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.dll
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.pdb
+C:\Users\Raston\source\repos\Day2Lab\Day2Lab\obj\Debug\netcoreapp3.1\Day2Lab.genruntimeconfig.cache
